@@ -10,11 +10,13 @@
     <a href="https://twitter.com/anang_kur">Twitter</a> •
     <a href="https://instagram.com/anang.kur">Instagram</a>
 </p>
+<br>
 
 ## Latest Blog Posts
 * [Easy Ways to Implement Automatic SMS Verification in Android](https://medium.com/gits-apps-insight/easy-ways-to-implement-automatic-sms-verification-in-android-2b5d8040afbd)
 * [Google for Indonesia 2019 #G4ID](https://medium.com/gits-apps-insight/google-for-indonesia-2019-g4id-30d73471d3ed)
 * [Tutorial — Create Your Own Template for Android Studio](https://medium.com/gits-apps-insight/tutorial-create-your-own-template-for-android-studio-1aaa9b4cb18)
+<br>
 
 ## Github Stats
 
