@@ -3,6 +3,8 @@
 
 <p align="center">Currently I'm working at <a href="https://www.sampingan.co.id">Sampingan</a> as an <b>Android Developer</b></p>
 
+<p align="center">I am an Android Developer who loves the world of arts. I work as an Android Developer but sometimes I do a design challenge with my friends for fill my sparetime.</p>
+
 <p align="center">
     <a href="https://www.linkedin.com/in/anangkur">LinkedIn</a> •
     <a href="https://medium.com/@anangk97">Medium</a> •
