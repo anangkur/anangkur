@@ -20,7 +20,7 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=anangkur&hide=stars&show_icons=true&theme=solarized-light>
+<img src="https://github-readme-stats.vercel.app/api/pin?username=anangkur&hide=stars&show_icons=true&theme=solarized-light>
 <br>
 
 ## Languages
