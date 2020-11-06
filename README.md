@@ -20,12 +20,12 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/pin?username=anangkur&hide=stars&show_icons=true&theme=solarized-light>
+<img src="https://github-readme-stats.vercel.app/api/?username=anangkur&hide=stars&show_icons=true&theme=buefy&line_height=32>
 <br>
 
 ## Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anangkur&count_private=true&theme=solarized-light">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anangkur&count_private=true&theme=buefy">
 <br>
 
 ## Weak Stats
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=anangkur&count_private=true&theme=solarized-light">
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=anangkur&count_private=true&theme=buefy">
