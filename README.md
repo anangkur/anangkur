@@ -20,7 +20,7 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/?username=anangkur&hide=stars&show_icons=true&theme=buefy&line_height=32>
+<img src="https://github-readme-stats.vercel.app/api/?username=anangkur&hide=stars&show_icons=true&theme=buefy">
 <br>
 
 ## Languages
