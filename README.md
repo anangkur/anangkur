@@ -29,5 +29,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anangkur&count_private=true&theme=buefy">
 <br>
 
-## Weak Stats
+## Week Stats
 <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=anangkur&count_private=true&theme=buefy">
