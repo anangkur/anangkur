@@ -22,12 +22,12 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/?username=anangkur&hide=stars&show_icons=true&theme=buefy">
+<img src="https://github-readme-stats.vercel.app/api/?username=anangkur&count_private=true&show_icons=true&theme=dracula">
 <br>
 
 ## Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anangkur&count_private=true&theme=buefy">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anangkur&layout=compact&theme=dracula">
 <br>
 
 ## Week Stats
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=anangkur&count_private=true&theme=buefy">
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=anangkur&theme=dracula">
