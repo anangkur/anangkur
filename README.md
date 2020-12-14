@@ -1,3 +1,4 @@
+
 <h2 align="center">Hi there, I'm Anang Kur! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h2>
 
@@ -21,13 +22,11 @@
 <br>
 
 ## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api/?username=anangkur&count_private=true&show_icons=true&theme=algolia">
-<br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=anangkur&count_private=true&show_icons=true&theme=solarized-dark)
 
 ## Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anangkur&layout=compact&theme=algolia">
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anangkur&layout=compact&count_private=true&theme=solarized-dark)
 <br>
 
 ## Week Stats
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=anangkur&theme=algolia">
+![Languages](https://wakatime.com/share/@anangkur/58f046fe-b4e6-4852-bb12-a5828ac08031.svg)
