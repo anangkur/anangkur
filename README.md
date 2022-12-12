@@ -19,10 +19,10 @@
 
 ## Popular Blog Posts
 * [Easy Ways to Implement Automatic SMS Verification in Android](https://medium.com/gits-apps-insight/easy-ways-to-implement-automatic-sms-verification-in-android-2b5d8040afbd)
-* [Tutorial — Create Your Own Template for Android Studio](https://medium.com/gits-apps-insight/tutorial-create-your-own-template-for-android-studio-1aaa9b4cb18)
+* [Tutorial — Create Your Own Template for Android Studio](https://medium.com/me/stats/post/9a9d25c70979?source=main_stats_page)
 * [Implementing Glassmorphism in Android App](https://medium.com/sampingan-tech/implementing-glassmorphism-in-android-app-e73a2fd83b80)
-* [Part 2: Jetpack Compose in Our Production Code](https://medium.com/sampingan-tech/part-2-jetpack-compose-in-our-production-code-d17e5a02af4f)
 * [Part 1: Integrating Jetpack Compose to Our Development Code](https://medium.com/sampingan-tech/part-1-integrating-jetpack-compose-to-our-development-code-9a9d25c70979)
+* [A Journey to Implement WebSocket in Your Android App Using Scarlet](https://medium.com/sampingan-tech/a-journey-to-implement-web-socket-in-your-android-app-using-scarlet-4c400516d350)
 <br>
 
 ## Github Stats
