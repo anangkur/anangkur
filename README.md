@@ -14,20 +14,14 @@
 </p>
 <br>
 
-## Popular Blog Posts
+## Latest Blog Posts
 
-<table>
-  <tr>
-    <td><img height="200" src="https://medium-story.vercel.app/api?username=@anangkur&index=0"/></td>
-    <td><img height="200" src="https://medium-story.vercel.app/api?username=@anangkur&index=1"/></td>
-    <td><img height="200" src="https://medium-story.vercel.app/api?username=@anangkur&index=2"/></td>
-  </tr>
-  <tr>
-    <td><img height="200" src="https://medium-story.vercel.app/api?username=@anangkur&index=3"/></td>
-    <td><img height="200" src="https://medium-story.vercel.app/api?username=@anangkur&index=4"/></td>
-    <td><img height="200" src="https://medium-story.vercel.app/api?username=@anangkur&index=5"/></td>
-  </tr>
- </table>
+![medium](https://medium-story.vercel.app/api?username=@anangkur&index=0)
+
+![medium](https://medium-story.vercel.app/api?username=@anangkur&index=1)
+
+![medium](https://medium-story.vercel.app/api?username=@anangkur&index=2)
+
 <br>
 
 ## Github Stats
