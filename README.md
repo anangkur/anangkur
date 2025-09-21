@@ -12,15 +12,6 @@
     <a href="https://dribbble.com/anangkur">Dribbble</a> •
     <a href="https://twitter.com/anang_kur">Twitter</a>
 </p>
-<br>
-
-## Latest Blog Posts
-
-![medium](https://medium-story.vercel.app/api?username=@anangkur&index=0)
-
-![medium](https://medium-story.vercel.app/api?username=@anangkur&index=1)
-
-![medium](https://medium-story.vercel.app/api?username=@anangkur&index=2)
 
 <br>
 
